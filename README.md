@@ -41,10 +41,11 @@ In this task:
 
 ### The Final View Looks as Follows :
 
-![ALL](Images/all_in_gif.gif)
+
+<img src="Images/all_in_gif.gif" height="500" width="900" />
 
 
-
+### Deployment Link:
 
 ### Copyright
 
