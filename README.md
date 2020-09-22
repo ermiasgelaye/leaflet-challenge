@@ -41,6 +41,8 @@ In this task:
 
 ### The Final View Looks as Follows :
 
+![ALL](Images/all_in_gif.gif)
+
 
 
 
