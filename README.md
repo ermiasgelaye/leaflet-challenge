@@ -42,7 +42,12 @@ In this task:
 ### The Final View Looks as Follows :
 
 
+<img src="Images/all_in_gif.gif" height="500" width="900" />
 
+
+### Deployment Link: 
+
+[Map page](https://ermiasgelaye.github.io/leaflet-challenge/)
 
 ### Copyright
 
