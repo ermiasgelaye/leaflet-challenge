@@ -39,18 +39,10 @@ In this task:
 ![5-Advanced](Images/5-Advanced.png)
 
 
+### The Final View Looks as Follows :
 
-### Assessment
 
-Your final product will be assessed on the following metrics:
 
-* Completion of assigned tasks
-
-* Visual appearance
-
-* Professionalism
-
-**Good luck!**
 
 ### Copyright
 
