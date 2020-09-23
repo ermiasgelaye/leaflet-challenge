@@ -44,11 +44,6 @@ In this task:
 
 <img src="Images/all_in_gif.gif" height="500" width="900" />
 
-
-### Deployment Link: 
-
-[Map page](https://ermiasgelaye.github.io/leaflet-challenge/)
-
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
